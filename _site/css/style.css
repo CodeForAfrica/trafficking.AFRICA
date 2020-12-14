@@ -1,0 +1,34 @@
+/* ----------------------
+Project: sensors.AFRICA Landing Page
+Author: Code for Africa
+-------------------------*/
+
+img {
+  max-width:100%;
+}
+
+body {
+  background-image: url("/images/bg/ocean-1-dark.jpg");
+  background-position: center center;
+  background-size: cover;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Oswald', 'sans-serif';
+}
+
+a {
+  color:white;
+  text-decoration: underline;
+}
+.btn {
+  text-decoration: none;
+}
+
+a:hover {
+  color:yellow;
+}
+
