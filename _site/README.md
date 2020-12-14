@@ -1,6 +1,6 @@
-# SeaSensors - Coming Soon
+# trafficking.Africa - Coming Soon
 
-The "Coming Soon" page for SeaSensors project; part of the sensors.AFRICA network - a citizen-science air, water, and sound quality network across the continent. Accessible at https://seasensors.africa/
+The "Coming Soon" page for trafficking project; The Human Trafficking Data Observatory is an investigative data project into modern slavery in southern Africa. Accessible at https://trafficking.africa/
 
 **NOTE: No active development is being done on this repo and will be made inactive soon.**
 
