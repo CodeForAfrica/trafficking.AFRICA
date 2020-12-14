@@ -1,14 +1,14 @@
-title: Sea Sensors
-description: Sea Sensors is an acoustic data project that collects underwater blast data to help provide quantitative spatial information on the incidence of the problem over time, that will enable targeted enforcement.
-author: sensors.AFRICA by Code for Africa
+title: trafficking.Africa
+description: The Human Trafficking Data Observatory is an investigative data project into modern slavery in southern Africa. 
+author: trafficking.AFRICA by Code for Africa
 
-url: https://seasensors.africa
-enforce_ssl: seasensors.africa
+url: https://github.com/CodeForAfrica/trafficking.AFRICA
+enforce_ssl: trafficking.africa
 
-tw_url: https://twitter.com/hashtag/seasensors?src=hash
-fb_url: https://www.facebook.com/hashtag/AcousticOceans
-gh_url: https://github.com/CodeForAfricaLabs/sensors.AFRICA
-md_url: https://medium.com/code-for-africa/tagged/innovateafrica
+tw_url: https://twitter.com/code4africa
+fb_url: https://web.facebook.com/CodeForAfrica
+gh_url: https://github.com/CodeForAfrica
+md_url: https://medium.com/code-for-africa
 ig_url: https://www.instagram.com/p/BjfrFfmlGKJ/
 
 google_analytics: UA-44795600-44

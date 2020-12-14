@@ -8,7 +8,7 @@ img {
 }
 
 body {
-  /* background-image: url("/images/bg/ocean-1-dark.jpg"); */
+  background-image: url("/images/bg/ocean-1-dark.jpg"); 
   background-position: center center;
   background-size: cover;
 }
