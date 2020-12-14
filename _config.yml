@@ -3,12 +3,14 @@ description: The Human Trafficking Data Observatory is an investigative data pro
 author: trafficking.AFRICA by Code for Africa
 
 url: https://github.com/CodeForAfrica/trafficking.AFRICA
-enforce_ssl: trafficking.africa
+enforce_ssl: trafficking.Africa
 
 tw_url: https://twitter.com/code4africa
 fb_url: https://web.facebook.com/CodeForAfrica
 gh_url: https://github.com/CodeForAfrica
 md_url: https://medium.com/code-for-africa
 ig_url: https://www.instagram.com/p/BjfrFfmlGKJ/
+giz_url: https://www.giz.de/en/html/index.html
+
 
 google_analytics: UA-44795600-44
