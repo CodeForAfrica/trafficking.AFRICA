@@ -4,6 +4,25 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 
-#Ruby
-vendor/
+# Ruby
 .bundle/
+.byebug_history
+.ruby-gemset
+.ruby-version
+
+# Files
+.analysis
+.DS_Store
+*.swp
+*~
+
+# Folders
+vendor/
+/vendor
+bbin/
+bin/
+coverage
+gh-pages/
+pkg/
+test/dest
+tmp/*
