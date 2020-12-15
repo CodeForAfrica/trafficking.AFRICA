@@ -10,5 +10,6 @@ This is a Jekyll powered site:
 
 ```
 bundle install
+bundle install --path vendor/bundle
 bundle exec jekyll s
 ```
